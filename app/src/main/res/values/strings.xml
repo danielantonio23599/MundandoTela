@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MundandoTela</string>
+    <string name="botao">MundandoTela</string>
+    <string name="title_activity_calculadora_times">CalculadoraTimesActivity</string>
+    <string name="title_activity_calculadora3">ActivityCalculadora3</string>
+</resources>
